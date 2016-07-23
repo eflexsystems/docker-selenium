@@ -1,4 +1,4 @@
-FROM selenium/standalone-chrome:2.53.0
+FROM eflexsystems/standalone-chrome:2.53.0
 MAINTAINER Selenium <selenium-developers@googlegroups.com>
 
 USER root
